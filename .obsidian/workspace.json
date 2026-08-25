@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f733ca01e2770b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "41722d9d8b7a8fd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bad1ea6c133e12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.4"
+            }
+          },
+          {
+            "id": "3fb2dbdc0b05ad44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBJETIVO DE LA MATERIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBJETIVO DE LA MATERIA"
+            }
+          },
+          {
+            "id": "55d3c3db004b1843",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNIDAD 1/TAREAS/Tarea 1.1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tarea 1.1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34ba254f86ef11b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4212cdd296424aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e78b06c5ba39237",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "204166a3f29300eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e03705781d304b05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "288b4ace1e59bd0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "73da95ec2625a99c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8b4d4007be35eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNIDAD 1/TAREAS/Tarea 1.1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Tarea 1.1"
+            }
+          },
+          {
+            "id": "17814a12a43a4d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UNIDAD 1/TAREAS/Tarea 1.1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Tarea 1.1"
+            }
+          },
+          {
+            "id": "10986a5ea76ec64d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5edcb0cea289239b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "f64fa46cef11b7c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNIDAD 1/TAREAS/Tarea 1.1.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Tarea 1.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "55d3c3db004b1843",
+  "lastOpenFiles": [
+    "OBJETIVO DE LA MATERIA.md",
+    "UNIDAD 1/TAREAS/Tarea 1.1.pdf",
+    "UNIDAD 1/TAREAS/msoAA19.tmp",
+    "TEMARIO DE LA MATERIA.md",
+    "UNIDAD 1/TRABAJO EN CLASE",
+    "UNIDAD 1/Sin título.md",
+    "UNIDAD 1/TAREAS",
+    "UNIDAD 1"
+  ]
+}
