@@ -44,9 +44,23 @@
               "icon": "lucide-file-text",
               "title": "Tarea 1.1"
             }
+          },
+          {
+            "id": "f98470c36abb0057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMARIO DE LA MATERIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEMARIO DE LA MATERIA"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -208,7 +224,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "55d3c3db004b1843",
+  "active": "f98470c36abb0057",
   "lastOpenFiles": [
     "OBJETIVO DE LA MATERIA.md",
     "UNIDAD 1/TAREAS/Tarea 1.1.pdf",

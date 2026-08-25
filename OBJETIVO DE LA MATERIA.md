@@ -1,3 +1,4 @@
+#### OBJETIVO DE LA MATERIA:
 Desarrollar y utilizar sistemas de visión embebidas que incluyan aprendizaje de maquina que puedan ser aplicados en la diversidad de áreas de aplicación de sistemas de visión artificial.
 
 **Competencias**
