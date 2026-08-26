@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIDAD 1/ACTIVIDADES/Actividad 1.1.md",
+                "file": "UNIDAD 1/ACTIVIDADES/Actividad 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actividad 1.1"
+              "title": "Actividad 1.2"
             }
           }
         ],
@@ -226,8 +226,9 @@
   },
   "active": "f98470c36abb0057",
   "lastOpenFiles": [
-    "UNIDAD 1/APUNTES/25-08-2026.md",
     "UNIDAD 1/ACTIVIDADES/Actividad 1.1.md",
+    "UNIDAD 1/ACTIVIDADES/Actividad 1.2.md",
+    "UNIDAD 1/APUNTES/25-08-2026.md",
     "TEMARIO DE LA MATERIA.md",
     "UNIDAD 1/APUNTES",
     "OBJETIVO DE LA MATERIA.md",
