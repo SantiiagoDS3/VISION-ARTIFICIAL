@@ -10,4 +10,4 @@ Este semestre en la materia de visión artificial, espero comprender y entender 
 
 Referencias: 
 - https://bcnvisiongroup.com/es/b205/las-10-mejores-aplicaciones-de-vision-artificial-en-la-industria
-- https://bcnvisiongroup.com/es/b205/las-10-mejores-aplicaciones-de-vision-artificial-en-la-industria
+- https://atriainnovation.com/blog/siete-aplicaciones-vision-artificial/
