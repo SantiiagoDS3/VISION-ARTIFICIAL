@@ -1,3 +1,6 @@
+# Actividad 1.1 
+Este semestre en la materia de visión artificial, espero comprender y entender que son los sistemas de visión artificial, como se desarrollan, que elementos lo componen y como se relacionan con el procesamiento digital de imágenes, así como también analizar la arquitectura que hay detrás de ellos y así hacer un análisis de los mismos para comprender su comportamiento en la industria y en las diversas áreas en las que se utilizan.
+# Actividad 1.2
 **Mencionar 3 aplicaciones de la visión artificial en la industria**
 
 1.  **Inspección y control de calidad**: En la industria manufacturera, se utilizan sistemas de visión artificial para identificar defectos en piezas y componentes, como grietas, deformaciones o manchas. Esto permite a las empresas detectar problemas rápidamente y reducir el riesgo de enviar productos defectuosos a los clientes.
